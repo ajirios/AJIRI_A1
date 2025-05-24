@@ -1,5 +1,5 @@
 {
-  "name": "musicapp",
+  "name": "ajiri_a1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,11 @@
     "url": "https://github.com/npm/deprecate-holder/issues"
   },
   "homepage": "https://github.com/npm/deprecate-holder#readme",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "expo": "^53.0.9",
+    "expo-status-bar": "^2.2.3",
+    "react": "^19.1.0",
+    "react-native": "^0.79.2"
+  }
 }
